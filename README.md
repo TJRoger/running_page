@@ -125,6 +125,7 @@ English | [简体中文](https://github.com/yihong0618/running_page/blob/master/
 | [Daniel](https://danielyu316.github.io/running_page) | <https://danielyu316.github.io/running_page/>  | Codoon      |
 | [arthurfsy2](https://github.com/arthurfsy2)          | <https://fsy.4a1801.life>                      | Garmin      |
 | [JMGutiH](https://github.com/JMGutiH)                | <https://jmgutih.github.io/workouts_page/>     | Strava      |
+| [TJRoger](https://github.com/TJRoger)                | <https://tjroger.tk/running_page/>             | Codoon      |
 
 </details>
 
