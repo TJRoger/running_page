@@ -24,3 +24,6 @@ config.yaml
 
 route.png
 route.svg
+bin
+lib
+pyvenv.cfg
